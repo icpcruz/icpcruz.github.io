@@ -1,1 +1,1 @@
-dashboardoSEIRD.html
+DashboardoSEIRD.html
